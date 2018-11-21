@@ -1,6 +1,6 @@
-demoproject (0.1-1) UNRELEASED; urgency=low
+demoproject (0.1) UNRELEASED; urgency=low
 
   * Initial release. Closes: #nnnn
     <nnnn is the bug number of your ITP>
 
- -- root <one@localhost>  Wed, 21 Nov 2018 13:04:27 +0100
+ -- root <one@localhost>  Wed, 21 Nov 2018 13:24:35 +0100
